@@ -2,7 +2,16 @@ name: vscode-binder
 channels:
   - conda-forge
 dependencies:
+  - black
+  - isort
+  - jupyterlab_code_formatter
+  - autopep8
   - numpy
   - python-build
   - jupyter-server-proxy
   - code-server >=3.2
+  - jupytext
+  - matplotlib
+  - pandas
+  - papermill
+  - scikit-learn
