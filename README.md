@@ -1,8 +1,7 @@
 # Jupytext
 
 
-[![Start Tutorial](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enryH/jupytext_tutorial/master?urlpath=lab?folder=/home/jovyan/tutorial)
-
+[![Start Tutorial](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enryH/jupytext_tutorial/master?urlpath=lab/tree/tutorial)
 
 Have a look at the [tutorial instructions](tutorial/README.md) (should be visible in jupyter lab)
 

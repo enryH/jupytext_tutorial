@@ -1,6 +1,7 @@
 import os
 import shutil
 
+os.environ["CODE_WORKINGDIR"] = "./tutorial"
 
 def setup_vscode():
     def _get_vscode_cmd(port):
