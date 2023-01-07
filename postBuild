@@ -4,3 +4,5 @@ code-server --install-extension ms-python.python
 
 # Install the VS code proxy
 pip install -e.
+
+git update-index --assume-unchanged postBuild
