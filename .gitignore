@@ -9,3 +9,8 @@
 .jupyter
 .bash_logout
 .profile
+
+
+.*
+*.sqlite
+*.pyc
