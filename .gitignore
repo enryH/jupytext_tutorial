@@ -11,6 +11,5 @@
 .profile
 
 
-.*
 *.sqlite
 *.pyc
