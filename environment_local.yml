@@ -1,0 +1,15 @@
+name: vscode-binder
+channels:
+  - conda-forge
+dependencies:
+  - black
+  - isort
+  - jupyterlab_code_formatter
+  - autopep8
+  - numpy
+  - jupyterlab
+  - jupytext
+  - matplotlib
+  - pandas
+  - papermill
+  - scikit-learn
