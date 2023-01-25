@@ -7,6 +7,8 @@
         "**/.local": true,
         "**/.npm": true,
         "**/.yarn": true,
-        "**/jupyter_vscode_proxy.egg-info": true
+        "**/jupyter_vscode_proxy.egg-info": true,
+        "**/__pycache__": true,
+        "**/.ipynb_checkpoints": true
     }
 }
